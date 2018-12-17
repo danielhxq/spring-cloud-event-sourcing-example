@@ -89,17 +89,3 @@ local.properties
 out
 gen
 .idea/
-account-service/
-catalog-service/
-config-service/
-discovery-service/
-edge-service/
-hystrix-dashboard/
-inventory-service/
-online-store-web/
-order-service/
-payment-service/
-pom.xml
-shopping-cart-service/
-spring-cloud-event-sourcing-example.iml
-user-service/
