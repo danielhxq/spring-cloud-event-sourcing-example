@@ -6,7 +6,7 @@
 
     <groupId>org.daniel</groupId>
     <artifactId>spring-cloud-event-sourcing-example</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>user-service</module>
         <module>catalog-service</module>

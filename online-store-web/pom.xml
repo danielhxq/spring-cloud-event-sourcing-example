@@ -5,9 +5,12 @@
     <parent>
         <artifactId>spring-cloud-event-sourcing-example</artifactId>
         <groupId>org.daniel</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <artifactId>online-store-web</artifactId>
     
